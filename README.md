@@ -34,4 +34,5 @@ Obtendo os seguintes outputs:
 
 
  - [Repositório GitHub](https://github.com/GustavoSirkis/azureVisionAI-CpationToImage-OCR-faceDetect)
+ - [Documentação Azure Vision Studio](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
 
