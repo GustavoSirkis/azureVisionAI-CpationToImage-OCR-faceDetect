@@ -1,104 +1,14 @@
 {
-    "apim-request-id": "d75450b5-0a97-430d-bdb9-0a743d7ea8f6",
-    "content-length": "1176",
-    "content-type": "application/json; charset=utf-8",
-    "modelVersion": "2023-10-01",
-    "denseCaptionsResult": {
-      "values": [
-        {
-          "text": "a dog eating from a bowl",
-          "confidence": 0.852196216583252,
-          "boundingBox": {
-            "x": 0,
-            "y": 0,
-            "w": 4736,
-            "h": 3157
-          }
-        },
-        {
-          "text": "a cat eating food in a bowl",
-          "confidence": 0.7417856454849243,
-          "boundingBox": {
-            "x": 1952,
-            "y": 1961,
-            "w": 1360,
-            "h": 785
-          }
-        },
-        {
-          "text": "a dog eating from a bowl",
-          "confidence": 0.8268188238143921,
-          "boundingBox": {
-            "x": 0,
-            "y": 0,
-            "w": 3190,
-            "h": 2604
-          }
-        },
-        {
-          "text": "a close up of a dog's ear",
-          "confidence": 0.7929469347000122,
-          "boundingBox": {
-            "x": 1726,
-            "y": 554,
-            "w": 861,
-            "h": 955
-          }
-        },
-        {
-          "text": "a dog eating food from a bowl",
-          "confidence": 0.8250084519386292,
-          "boundingBox": {
-            "x": 1001,
-            "y": 1542,
-            "w": 2932,
-            "h": 1561
-          }
-        },
-        {
-          "text": "a close up of an animal's eye",
-          "confidence": 0.8577706217765808,
-          "boundingBox": {
-            "x": 2717,
-            "y": 1304,
-            "w": 217,
-            "h": 170
-          }
-        },
-        {
-          "text": "close up of a dog's nose",
-          "confidence": 0.801842987537384,
-          "boundingBox": {
-            "x": 3018,
-            "y": 1971,
-            "w": 194,
-            "h": 163
-          }
-        },
-        {
-          "text": "a close-up of a cat's paw",
-          "confidence": 0.7884504795074463,
-          "boundingBox": {
-            "x": 2170,
-            "y": 2054,
-            "w": 967,
-            "h": 289
-          }
-        },
-        {
-          "text": "a dog drinking from a bowl",
-          "confidence": 0.8196274042129517,
-          "boundingBox": {
-            "x": 1761,
-            "y": 467,
-            "w": 1486,
-            "h": 1718
-          }
-        }
-      ]
-    },
-    "metadata": {
-      "width": 4736,
-      "height": 3157
-    }
+  "apim-request-id": "ffdf5400-4a16-4cef-9916-0731b0aa7d88",
+  "content-length": "152",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a dog eating from a bowl",
+    "confidence": 0.852196216583252
+  },
+  "metadata": {
+    "width": 4736,
+    "height": 3157
   }
+}
