@@ -33,6 +33,6 @@ Obtendo os seguintes outputs:
 ## Links Úteis
 
 
-[Repositório GitHub][]
+[Repositório GitHub][https://github.com/GustavoSirkis/azureVisionAI-CpationToImage-OCR-faceDetect.git]
 
 
